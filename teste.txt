@@ -1,2 +1,7 @@
-ola mundo
-teste git
+3 passos p/ fazer push (Projeto local p/ repositorio)
+
+1 passo: git add.
+
+2 passo: git commit -m
+
+3 passos: git push
